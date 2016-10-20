@@ -1,9 +1,12 @@
-# Données des classements des portails immobiliers surveillés par [Yanport](https://www.yanport.com) sous [licence libre ODbL](http://vvlibri.org/fr/licence/odbl/10/fr) sur les villes :
+## Données des classements des portails immobiliers surveillés par [Yanport](https://www.yanport.com)
 
-* [Données au format csv](classement-portails.csv)
+Le classement est effectué par nombre d'annonce pour la France et la Bretage depuis le 1er avril 2016.
 
+Le fichier est disponible au format csv : [classement-portails.csv](classement-portails.csv)
 
-# Méthodologie
+Les données sont publiées sous [licence libre ODbL](http://vvlibri.org/fr/licence/odbl/10/fr).
+
+## Méthodologie
 
 Le classement des portails est réalisé à partir du stock d'annonces immobilières observés sur les portails au début de chaque mois.
 
